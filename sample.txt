@@ -1,1 +1,2 @@
 Hi i have something from master branch
+hello mani from master
